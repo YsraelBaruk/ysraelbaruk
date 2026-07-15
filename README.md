@@ -29,10 +29,3 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec Tatuí, com ex
 
 <br/>
 <br/>
-
-
----
-
-### Estatísticas
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YsraelBaruk&theme=vue-dark)](https://git.io/streak-stats)
