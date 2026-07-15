@@ -44,5 +44,5 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec Tatuí, com ex
 
 ### Gráfico de Contribuições
 
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=ysraelbaruk&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 
